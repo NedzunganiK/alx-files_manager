@@ -1,3 +1,3 @@
-Files manager
+0x04. Files manager
 
-Back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing
+project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
